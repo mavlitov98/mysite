@@ -1,0 +1,21 @@
+body{
+  /*display: block;*/
+  font-family: century gothic;
+  color: white;
+  height: 100%;
+  background: #000 url(/bg2.jpg);
+  background-size: cover;
+  align-items: center;
+  justify-content: justify;
+  text-align: center;
+}
+
+a{
+	color: white;
+	text-transform: uppercase;
+}
+
+a:hover{
+	color: #18D918;
+}
+

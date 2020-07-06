@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cef1a9ba-d229-44bd-bcb6-25e08f8c443d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mysite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/rb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/style-api.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/style-contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/style-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/style-login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/style-page1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/style-signup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/style-site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/.env.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/.idea/myapp.loc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/bin/console" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/bin/phpunit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/bundles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/cache.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/dev/debug.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/dev/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/dev/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/doctrine.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/doctrine_migrations.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/mailer.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/notifier.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/prod/deprecations.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/prod/doctrine.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/prod/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/prod/routing.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/routing.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/security.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/sensio_framework_extra.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/test/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/test/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/test/twig.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/test/validator.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/test/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/translation.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/twig.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/packages/validator.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/routes.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/routes/annotations.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/routes/dev/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/routes/dev/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/config/services.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/migrations/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/phpunit.xml.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/src/Controller/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/src/Entity/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/src/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/src/Repository/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/symfony.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/templates/base.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/tests/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.loc/translations/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e8CbpHpREsOVECzUXzVpslYiEt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../work" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cef1a9ba-d229-44bd-bcb6-25e08f8c443d" name="Default Changelist" comment="" />
+      <created>1593693906266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593693906266</updated>
+      <workItem from="1593693907536" duration="61000" />
+      <workItem from="1594061847184" duration="420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1594062249939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1594062249939" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1593693966733">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593693966733" />
+  </component>
+</project>
